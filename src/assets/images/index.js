@@ -40,6 +40,7 @@ import rmap3 from './rmap3.png'
 import galleryImage1 from './gal1.png'
 import galleryImage2 from './gal2.png'
 import galleryImage3 from './gal3.png'
+import loadingBg from './loadbg.png'
 
 
 
@@ -96,6 +97,7 @@ export {
     galleryImage1,
     galleryImage2,
     galleryImage3,
+    loadingBg
     
 
 
