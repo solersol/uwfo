@@ -121,7 +121,7 @@ const ComingSoon = () => {
 
       {/* H1 Positioned at the Bottom Center */}
       <h1 className="absolute bottom-10 text-yellow-300 text-4xl md:text-6xl font-bold font-comic text-center">
-        CA:
+        CA: CNWA7yLCeuDnHajb77tWxhN9bQTFvUAuzJbadoYvpump
       </h1>
     </section>
   );
